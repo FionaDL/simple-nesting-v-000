@@ -56,10 +56,9 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-	 programmer_hash.collect do |k, v|
 		 programmer_hash[:dennis_ritchie][:languages]
-		 puts "#{v}"
-	 end
+		
+	
 
 
 end
