@@ -59,7 +59,7 @@ def dennis_ritchies_language
 		value= programmer_hash[:dennis_ritchie][:languages]
 		value.to_s
 
-	
+
 
 
 end
